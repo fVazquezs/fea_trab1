@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\FrameworksAPI\\fea_trab1\\fea_trab1\\fea_trab1.csproj": {}
+    "D:\\Fernando\\Facul\\fap\\fea_trab1\\fea_trab1\\fea_trab1.csproj": {}
   },
   "projects": {
-    "C:\\dev\\FrameworksAPI\\fea_trab1\\fea_trab1\\fea_trab1.csproj": {
+    "D:\\Fernando\\Facul\\fap\\fea_trab1\\fea_trab1\\fea_trab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\FrameworksAPI\\fea_trab1\\fea_trab1\\fea_trab1.csproj",
+        "projectUniqueName": "D:\\Fernando\\Facul\\fap\\fea_trab1\\fea_trab1\\fea_trab1.csproj",
         "projectName": "fea_trab1",
-        "projectPath": "C:\\dev\\FrameworksAPI\\fea_trab1\\fea_trab1\\fea_trab1.csproj",
+        "projectPath": "D:\\Fernando\\Facul\\fap\\fea_trab1\\fea_trab1\\fea_trab1.csproj",
         "packagesPath": "C:\\Users\\vzfer\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\FrameworksAPI\\fea_trab1\\fea_trab1\\obj\\",
+        "outputPath": "D:\\Fernando\\Facul\\fap\\fea_trab1\\fea_trab1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\vzfer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -57,13 +54,23 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
