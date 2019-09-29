@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29230.47
+VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fea_trab1", "fea_trab1\fea_trab1.csproj", "{0A6A07FD-8115-4A88-9CF1-877C93F1B07D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fea_trab1", "fea_trab1\fea_trab1.csproj", "{ABEE0009-6688-4C91-B1E9-98CB60029514}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0A6A07FD-8115-4A88-9CF1-877C93F1B07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0A6A07FD-8115-4A88-9CF1-877C93F1B07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0A6A07FD-8115-4A88-9CF1-877C93F1B07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0A6A07FD-8115-4A88-9CF1-877C93F1B07D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEE0009-6688-4C91-B1E9-98CB60029514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEE0009-6688-4C91-B1E9-98CB60029514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEE0009-6688-4C91-B1E9-98CB60029514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEE0009-6688-4C91-B1E9-98CB60029514}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9426D766-2D16-4740-84CE-DDCEA07BD150}
+		SolutionGuid = {2A00FDFD-BC27-4369-8B75-7EA335C819FB}
 	EndGlobalSection
 EndGlobal
