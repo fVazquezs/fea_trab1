@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fernando\\Facul\\fap\\fea_trab1\\fea_trab1\\fea_trab1.csproj": {}
+    "C:\\dev\\FrameworksAPI\\fea_trab1\\fea_trab1\\fea_trab1.csproj": {}
   },
   "projects": {
-    "D:\\Fernando\\Facul\\fap\\fea_trab1\\fea_trab1\\fea_trab1.csproj": {
+    "C:\\dev\\FrameworksAPI\\fea_trab1\\fea_trab1\\fea_trab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fernando\\Facul\\fap\\fea_trab1\\fea_trab1\\fea_trab1.csproj",
+        "projectUniqueName": "C:\\dev\\FrameworksAPI\\fea_trab1\\fea_trab1\\fea_trab1.csproj",
         "projectName": "fea_trab1",
-        "projectPath": "D:\\Fernando\\Facul\\fap\\fea_trab1\\fea_trab1\\fea_trab1.csproj",
+        "projectPath": "C:\\dev\\FrameworksAPI\\fea_trab1\\fea_trab1\\fea_trab1.csproj",
         "packagesPath": "C:\\Users\\vzfer\\.nuget\\packages\\",
-        "outputPath": "D:\\Fernando\\Facul\\fap\\fea_trab1\\fea_trab1\\obj\\",
+        "outputPath": "C:\\dev\\FrameworksAPI\\fea_trab1\\fea_trab1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\vzfer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

@@ -12,5 +12,6 @@
     <WebStackScaffolding_DbContextTypeFullName>fea_trab1.Models.Context</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>frameworkseapitrabalho1 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

@@ -47,7 +47,7 @@ namespace fea_trab1.Controllers
         // GET: Products/Create
         public IActionResult Create()
         {
-            ViewData["CategoryId"] = new SelectList(_context.Category, "Id", "Id");
+            ViewData["CategoryId"] = new SelectList(_context.Category, "Id", "Name");
             return View();
         }
 
@@ -81,7 +81,7 @@ namespace fea_trab1.Controllers
             {
                 return NotFound();
             }
-            ViewData["CategoryId"] = new SelectList(_context.Category, "Id", "Id", product.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Category, "Id", "Name", product.CategoryId);
             return View(product);
         }
 
